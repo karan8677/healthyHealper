@@ -1,0 +1,8 @@
+{
+  "name": "healthyHealper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/karan8677/healthyHealper.git",
+  "author": "karan8677 <karan8677karan@gmail.com>",
+  "license": "MIT"
+}
